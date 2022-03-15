@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^en/2018/09/(.+?)$ /fonts/$1 [L]
+
+RewriteEngine On
+RewriteRule ^en/2018/06/(.+?)$ /assets/revolution/css/$1 [L]
+
+

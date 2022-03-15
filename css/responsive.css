@@ -1,0 +1,136 @@
+@media (max-width: 1200px) and (min-width: 992px) {
+	.menuzord-menu > li > a {
+	    padding: 40px 15px;
+	}
+	.theme_menu .thm-btn {
+		padding: 0 10px;
+		font-size: 12px;
+	}
+	.theme_menu .right-column {
+	    width: 225px;
+	}
+
+}
+
+@media (min-width: 540px) {
+	.clients-section .owl-theme .owl-controls {
+    	display: none;
+    }
+    
+    .clients-section .owl-theme.long .owl-controls {
+    	display: block;
+	}
+}
+
+@media (max-width: 540px) {
+	.clients-section .owl-theme .owl-nav {
+    	display: block;
+    	bottom: 80%;
+        right:40%;
+    }
+}
+
+@media (max-width: 476px) {
+	.section-title:before {
+    	top: 80px;
+    }
+}
+
+@media (max-width: 1199px) {
+	.subscribe-form input {
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.awards .service-list li {
+		width: 45%;
+	}
+}
+
+@media (max-width: 1199px) and (min-width:992px){
+	.why-choose .item:hover .inner-box {
+	    padding: 0px 15px 0px 75px;
+	    transition: .5s ease;
+	}
+	.why-choose .item:hover .icon_box span {
+	    margin-top: -40px;
+	}
+}
+
+@media (min-width: 992px) {
+	.menuzord-menu li .indicator {
+		display: none;
+	}
+}
+
+@media (max-width: 730px) {
+	.client-row {
+		display:block;
+	}
+
+	.client-row .partener {
+    	margin-right: 0;
+		margin-bottom: 30px;
+	}
+}
+
+@media (max-width: 767px) {
+    .pop-up-clients {
+    	display: none;
+    }
+}
+
+@media (max-width: 991px) {
+
+	.btn-desktop {
+		display: none;
+	}
+
+	.logo-container {
+		margin: 10px 0;
+	}
+	.menuzord-responsive.menuzord {
+	    padding: 0 15px;
+	    min-height: 66px;
+	}
+	.menuzord .showhide {
+	    height: 60px;
+	    width: 30px;
+	    padding: 18px 0 41px;
+	    float: none;
+	}
+	.menuzord .showhide span {
+	    display: block;
+	    width: 100%;
+	    height: 2px;
+	    margin: 4px 0;
+	    background: #48c7ec;
+	}
+	.menuzord-menu > li:first-child a {
+	    padding-left: 20px;
+	}
+	.menuzord-menu ul.dropdown {
+		padding: 0;
+	}
+	.menuzord-responsive .menuzord-menu.menuzord-indented > li > ul.dropdown > li:hover > a {
+	    padding-left: 40px !important;
+	}
+	.theme_menu.stricky-fixed .main-logo {
+	    display: none;
+	}
+
+	.menu-column {
+		display: none;
+	}
+
+	.menu-column-mobile {
+		display: flex;
+	}
+
+	.menu-column-mobile .menuzord {
+		display: none;
+	}
+
+	.mobile-nav {
+		display: block;
+	}
+}
