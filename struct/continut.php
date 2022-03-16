@@ -7,7 +7,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item">
                     <figure class="img-box">
-                        <a href="#"><img loading=lazy src="images/probe/Web Development.png" alt=""></a>
+                        <a href="web.php"><img loading=lazy src="images/probe/Web Development.png" alt=""></a>
                         <div class="overlay-box">
                             <div class=" inner-box">
                                 <div class="icon_box">
@@ -28,7 +28,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item">
                     <figure class="img-box">
-                        <a href="#" ><img loading=lazy src="images/probe/App Dev.png" alt=""></a>
+                        <a href="desktop.php" ><img loading=lazy src="images/probe/App Dev.png" alt=""></a>
                         <div class="overlay-box">
                             <div class="inner-box">
                                 <div class="icon_box">
@@ -49,7 +49,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item">
                     <figure class="img-box">
-                        <a href="#" ><img loading=lazy src="images/probe/Design.png" alt=""></a>
+                        <a href="embedded.php" ><img loading=lazy src="images/probe/Design.png" alt=""></a>
                         <div class="overlay-box">
                             <div class="inner-box">
                                 <div class="icon_box">
@@ -67,32 +67,10 @@
                     </figure>
                 </div>
             </div>
-			<!--<div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="item">
-                    <figure class="img-box">
-                        <a href="#"><img loading=lazy src="images/resource/design.jpeg" alt="text"></a>
-                        <div class="overlay-box">
-                            <div class="inner-box">
-                                <div class="icon_box">
-                                    <span class="icon-graphic"></span>
-                                </div>
-                                <h4>Design</h4>
-                                <div class="text">
-                                    <p>Această probă constă în utilizarea unor programe precum Adobe Photoshop sau Adobe Illustrator pentru a realiza designul unei interfațe...</p>
-                                    <div class="link">
-										<a href="embedded.php" class="default_link">Mai multe informatii <i class="fa fa-angle-right"></i></a>
-									</div>
-								</div>
-                            </div>
-                        </div>
-                    </figure>
-                </div>
-            </div>-->
-
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item">
                     <figure class="img-box">
-                        <a href="#"><img loading=lazy src="images/probe/JuniorDev.png" alt=""></a>
+                        <a href="junior.php"><img loading=lazy src="images/probe/JuniorDev.png" alt=""></a>
                         <div class="overlay-box">
                             <div class="inner-box">
                                 <div class="icon_box">
@@ -103,6 +81,27 @@
                                     <p>La această secţiune vor putea participa doar elevii de liceu. Concursul propriu-zis constă în rezolvarea unei serii de probleme într-un interval... </p>
                                     <div class="link">
 										<a href="junior.php" class="default_link">Mai multe informatii <i class="fa fa-angle-right"></i></a>
+									</div>
+								</div>
+                            </div>
+                        </div>
+                    </figure>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="item">
+                    <figure class="img-box">
+                        <a href="#"><img loading=lazy src="images/probe/special.png" alt=""></a>
+                        <div class="overlay-box">
+                            <div class="inner-box">
+                                <div class="icon_box">
+                                    <span class="icon-computer"></span>
+                                </div>
+                                <h4>Probă surpriză</h4>
+                                <div class="text">
+                                    <p>Probă... cum? Surpriză? Oare ce-o fi? </p>
+                                    <div class="link">
+										<a href="#" class="default_link">Mai multe informatii <i class="fa fa-angle-right"></i></a>
 									</div>
 								</div>
                             </div>
