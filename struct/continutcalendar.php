@@ -109,7 +109,7 @@ table {
                         </td>
                     </tr>
                     <tr>
-                        <td><a href="http://itmarathon.lsaciasi.ro/desktop.php" target="_blank">Proba surpriză</a></td>
+                        <td><a href="#" target="_blank">Proba surpriză</a></td>
                         <td>
                             17 Aprilie 2022
                         </td>
