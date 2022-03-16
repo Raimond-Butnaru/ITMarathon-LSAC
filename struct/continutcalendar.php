@@ -23,7 +23,7 @@ table {
                     <tr>
                         <td><a href="#">Inscrieri</a></td>
                         <td>
-                            1 Mai 2021 - 18 Mai 2021
+                            16 Martie 2022 - 6 Aprilie 2022
                         </td>
                         <td>
                             23:59
@@ -35,7 +35,7 @@ table {
                     <tr>
                         <td><a href="#">Deschidere</a></td>
                         <td>
-                            17 Mai 2021
+                            11 Aprilie 2022
                         </td>
                         <td>
                              10:00
@@ -48,7 +48,7 @@ table {
 				    <tr>
                         <td><a href="http://itmarathon.lsaciasi.ro/infoit.php" target="_blank">Info IT</a></td>
                         <td>
-                            17 Mai 2021 - 21 Mai 2021
+                            11 Aprilie 2021 - 15 Aprilie 2022
                         </td>
                         <td>
                             10:00
@@ -61,7 +61,7 @@ table {
                     <tr>
                         <td><a href="http://itmarathon.lsaciasi.ro/junior.php" target="_blank">Junior Dev</a></td>
                         <td>
-                            22 Mai 2021
+                            16 Aprilie 2022
                         </td>
                         <td>
                             10:00
@@ -75,7 +75,7 @@ table {
                     <tr>
                         <td><a href="http://itmarathon.lsaciasi.ro/web.php" target="_blank">Web Development</a></td>
                         <td>
-                            22 Mai 2021
+                            16 Aprilie 2022
                         </td>
                         <td>
                             10:00
@@ -87,7 +87,7 @@ table {
                     <tr>
                         <td><a href="http://itmarathon.lsaciasi.ro/embedded.php" target="_blank">Design</a></td>
                         <td>
-                            23 Mai 2021
+                            16 Aprilie 2022
                         </td>
                         <td>
                             10:00
@@ -99,7 +99,7 @@ table {
                     <tr>
                         <td><a href="http://itmarathon.lsaciasi.ro/desktop.php" target="_blank">Desktop&Mobile Applications</a></td>
                         <td>
-                            23 Mai 2021
+                            17 Aprilie 2022
                         </td>
                         <td>
                             10:00
@@ -108,7 +108,18 @@ table {
                             <div id="countbox55"></div>
                         </td>
                     </tr>
-
+                    <tr>
+                        <td><a href="http://itmarathon.lsaciasi.ro/desktop.php" target="_blank">Proba surpriză</a></td>
+                        <td>
+                            17 Aprilie 2022
+                        </td>
+                        <td>
+                            10:00
+                        </td>
+                        <td>
+                            <div id="countbox55"></div>
+                        </td>
+                    </tr>
                     </tbody>
                 </table>
             </div>
