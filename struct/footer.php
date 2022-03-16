@@ -87,11 +87,10 @@
                                     </ul>
                                 </div>
                                 <ul class="social">
-                <li><a href="https://www.facebook.com/ItMarathon/?fref=ts" target=_blank><i class="fa fa-facebook"></i></a></li>
-                <li><a target="_blank" href="https://www.instagram.com/lsaciasi/" target=_blank><i class="fa fa-instagram"></i></a></li>
-               <!-- <li><a href="#"><i class="fa fa-google-plus"></i></a></li>-->
-                <li><a href="https://www.linkedin.com/company/liga-studen%C8%9Bilor-facult%C4%83%C8%9Bii-de-automatic%C4%83-%C8%99i-calculatoare-ia%C8%99i?trk=top_nav_home" target=_blank><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="https://www.twitch.tv/lsac_iasi" target=_blank><i class="fa fa-twitch"></i></a></li>
+                                    <li><a href="https://www.facebook.com/lsac.is" target=_blank><i class="fa fa-facebook"></i></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/lsaciasi/" target=_blank><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/company/liga-studen%C8%9Bilor-facult%C4%83%C8%9Bii-de-automatic%C4%83-%C8%99i-calculatoare-ia%C8%99i?trk=top_nav_home" target=_blank><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="https://www.twitch.tv/lsac_iasi" target=_blank><i class="fa fa-twitch"></i></a></li>
                                 </ul> 
                             </div>
                         </div>

@@ -6,12 +6,12 @@
 		    <h4>Coordonatori: </h4>
 			<div class="content">
 		        <span>Iulian Vornicu</span> 
-		        <p><i class="fa fa-phone"></i>+40 757 028 372</p>
-		        <p><i class="fa fa-envelope"></i>xxx</p>
+		        <p><i class="fa fa-phone"></i>+40 790335009</p>
+		        <p><i class="fa fa-envelope"></i>viulian2@gmail.com</p>
 
-		        <span>Anastasia Lipovanu</h5> 
-		        <p><i class="fa fa-phone"></i>+40 740 460 249</p>
-		        <p><i class="fa fa-envelope"></i>musteatadenisa20@gmail.com</p>
+		        <span>Anastasia Lipovanu</span> 
+		        <p><i class="fa fa-phone"></i>+40 752 224 240</p>
+		        <p><i class="fa fa-envelope"></i>lipovanuanastasia@yahoo.com</p>
 		    </div>
 		</div>
 		<div class="item">
