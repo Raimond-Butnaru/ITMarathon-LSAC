@@ -7,7 +7,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item">
                     <figure class="img-box">
-                        <a href="#"><img loading=lazy src="images/resource/s2.jpg" alt=""></a>
+                        <a href="#"><img loading=lazy src="images/probe/Web Development.png" alt=""></a>
                         <div class="overlay-box">
                             <div class=" inner-box">
                                 <div class="icon_box">
@@ -28,7 +28,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item">
                     <figure class="img-box">
-                        <a href="#" ><img loading=lazy src="images/resource/s3.jpg" alt=""></a>
+                        <a href="#" ><img loading=lazy src="images/probe/App Dev.png" alt=""></a>
                         <div class="overlay-box">
                             <div class="inner-box">
                                 <div class="icon_box">
@@ -49,7 +49,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item">
                     <figure class="img-box">
-                        <a href="#" ><img loading=lazy src="images/resource/s6.jpg" alt=""></a>
+                        <a href="#" ><img loading=lazy src="images/probe/Design.png" alt=""></a>
                         <div class="overlay-box">
                             <div class="inner-box">
                                 <div class="icon_box">
@@ -92,7 +92,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="item">
                     <figure class="img-box">
-                        <a href="#"><img loading=lazy src="images/resource/s7.jpg" alt=""></a>
+                        <a href="#"><img loading=lazy src="images/probe/JuniorDev.png" alt=""></a>
                         <div class="overlay-box">
                             <div class="inner-box">
                                 <div class="icon_box">

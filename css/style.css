@@ -1187,6 +1187,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
   padding-left: 80px;
   padding-right: 21px;
   transition: 1s ease;
+  height: 100%;
 }
 .why-choose .item:hover .inner-box {
   padding: 43px 21px 43px 80px;

@@ -1,7 +1,4 @@
 @media (max-width: 1200px) and (min-width: 992px) {
-	.menuzord-menu > li > a {
-	    padding: 40px 15px;
-	}
 	.theme_menu .thm-btn {
 		padding: 0 10px;
 		font-size: 12px;

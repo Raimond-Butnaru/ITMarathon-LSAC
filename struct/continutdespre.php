@@ -8,7 +8,7 @@
                 <div class="about-info">
 
                     <div class="text">
-                        <p>În 2021 se va desfășura a IX-a ediție a concursului “IT Marathon”, concurs ce a crescut în fiecare an ca număr de participanți și ca număr de secțiuni ajungând un concurs de nivel național. Concursul se adresează studenților și elevilor de liceu pasionați de IT. </p>
+                        <p>În 2022 se va desfășura a IX-a ediție a concursului “IT Marathon”, concurs ce a crescut în fiecare an ca număr de participanți și ca număr de secțiuni ajungând un concurs de nivel național. Concursul se adresează studenților și elevilor de liceu pasionați de IT. </p>
                         <p>Secțiunile din cadrul concursului „IT Marathon” se desfășoară online sub forma unui maraton de 12 ore pentru fiecare nișă, acestea fiind: Desktop&Mobile Applications, Web Development și Design. Participanții vor lucra în echipe de maxim 3 persoane. Aceștia trebuie să răspundă unei teme propuse de către companiile partenere în colaborare cu reprezentanții Facultății de Automatică și Calculatoare, pe care vor trebui să o abordeze într-un mod cât mai inovativ. </p>
                         <p>Pe lângă domeniile menționate, evenimentul cuprinde și o categorie destinată elevilor de liceu, Junior Dev ce va avea loc în incinta Facultății de Automatică și Calculatoare Iași. Caştigătorii sunt desemnaţi de un juriu format din reprezentanţi ai companiilor partenere, dar şi ai facultăţii, ce urmăresc originalitatea şi calitatea soluţiilor.</p>
                     </div>

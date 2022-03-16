@@ -59,7 +59,7 @@
                                     <!--Post-->
                                     <div class="post">
                                         <div class="content">
-                                            <h4><a href="https://forms.gle/hqDm4VGdR1xWuRMVA" target="_blank">Inscrieri</a></h4>
+                                            <h4><a href="https://forms.gle/bL3uX8XXKeqaCvvm8" target="_blank">Inscrieri</a></h4>
                                         </div>
                                     </div>
                                     <!--Post-->
@@ -82,7 +82,7 @@
                                 <div class="widget-content">
                                     <ul class="contact-info">
                                         <li><span class="icon fa fa-phone"></span>Campus "Tudor Vladimirescu",<br> camin T19, Iasi</li>
-                                        <li><span class="icon fa fa-envelope"></span> Phone: +40 749 418 332</li>
+                                        <li><span class="icon fa fa-envelope"></span> Phone: +40 741 125 996</li>
                                         <li><span class="icon fa fa-paper-plane"></span>lsaciasi@gmail.com</li>
                                     </ul>
                                 </div>
@@ -108,7 +108,7 @@
      <section class="footer-bottom">
         <div class="container">
             <div class="pull-left copy-text">
-                <p>Copyrights © 2021 All Rights Reserved by <a href="http://lsaciasi.ro"> LSAC Iasi.</a></p>
+                <p>Copyrights © 2022 All Rights Reserved by <a href="http://lsaciasi.ro"> LSAC Iasi.</a></p>
 
             </div><!-- /.pull-right -->
             
@@ -149,6 +149,7 @@
 	<script src="js/jquery.fitvids.js"></script>
     <script src="js/bootstrap-select.min.js"></script>
     <script src="js/navbar.js"></script>
+    <script src="js/loading.js"></script>
 	
 
 	<!-- revolution slider js -->
@@ -180,10 +181,7 @@
 	<!-- Clients pop-up -->
 	<script src="js/pop-up.js"></script>
     
-    <!-- Facebok Page Plugin -->
-    <div id="fb-root"></div>
-	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ro_RO/sdk.js#xfbml=1&version=v10.0" nonce="buBc0LuH"></script>
-
+   
 </div>
 
 </body>
