@@ -75,7 +75,7 @@ table {
                     <tr>
                         <td><a href="http://itmarathon.lsaciasi.ro/web.php" target="_blank">Web Development</a></td>
                         <td>
-                            16 Aprilie 2022
+                            16 Aprilie 2022 - 17 Aprilie 2022
                         </td>
                         <td>
                             10:00
@@ -87,7 +87,7 @@ table {
                     <tr>
                         <td><a href="http://itmarathon.lsaciasi.ro/embedded.php" target="_blank">Design</a></td>
                         <td>
-                            16 Aprilie 2022
+                            16 Aprilie 2022 - 17 Aprilie 2022
                         </td>
                         <td>
                             10:00
@@ -99,7 +99,7 @@ table {
                     <tr>
                         <td><a href="http://itmarathon.lsaciasi.ro/desktop.php" target="_blank">Desktop&Mobile Applications</a></td>
                         <td>
-                            17 Aprilie 2022
+                            17 Aprilie 2022 - 17 Aprilie 2022
                         </td>
                         <td>
                             10:00
@@ -111,7 +111,7 @@ table {
                     <tr>
                         <td><a href="#" target="_blank">Proba surpriză</a></td>
                         <td>
-                            17 Aprilie 2022
+                            17 Aprilie 2022 - 17 Aprilie 2022
                         </td>
                         <td>
                             10:00
