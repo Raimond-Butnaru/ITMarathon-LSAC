@@ -13,7 +13,7 @@ table {
 <section class="about-faq sec-padd">
         <div class="container">
             <div class="section-title center">
-                        <h2>Calendar IT Marathon 2021</h2>
+                        <h2>Calendar IT Marathon 2022</h2>
             </div>
             <div class="ui segment">
                 <table class="ui celled striped structured table">
@@ -35,7 +35,7 @@ table {
                     <tr>
                         <td><a href="#">Deschidere</a></td>
                         <td>
-                            11 Aprilie 2022
+                            14 Aprilie 2022
                         </td>
                         <td>
                              10:00
@@ -48,7 +48,7 @@ table {
 				    <tr>
                         <td><a href="http://itmarathon.lsaciasi.ro/infoit.php" target="_blank">Info IT</a></td>
                         <td>
-                            11 Aprilie 2021 - 15 Aprilie 2022
+                            15 Aprilie 2022
                         </td>
                         <td>
                             10:00
@@ -111,10 +111,10 @@ table {
                     <tr>
                         <td><a href="#" target="_blank">Proba surpriză</a></td>
                         <td>
-                            17 Aprilie 2022 - 17 Aprilie 2022
+                            eror 404
                         </td>
                         <td>
-                            10:00
+                            ???
                         </td>
                         <td>
                             <div id="countbox55"></div>
