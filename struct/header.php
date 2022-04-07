@@ -18,6 +18,7 @@
  	
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/parteneri.css">
     
     <link rel="preload" href="css/style.css" as="style">
     <link rel="preload" href="css/responsive.css" as="style">

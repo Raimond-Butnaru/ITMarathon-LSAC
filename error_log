@@ -1,0 +1,2 @@
+[15-Mar-2022 19:27:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'lsaciasi_dino'@'localhost' (using password: YES) in /home/lsaciasi/public_html/itmarathon/struct/continutinscrieridiy.php on line 8
+[31-Mar-2022 12:30:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'lsaciasi_dino'@'localhost' (using password: YES) in /home/lsaciasi/public_html/itmarathon/struct/continutinscrieridiy.php on line 8

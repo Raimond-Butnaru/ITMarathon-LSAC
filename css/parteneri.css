@@ -1,0 +1,38 @@
+.work-damnit{
+	width: 240px;
+}
+.event-container{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	justify-items: space-between;
+	width: 80%;
+	margin: 0 auto;
+}
+.first-line{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding-bottom: 10%;
+}
+.second-line{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding-bottom: 10%;
+}
+.third-line{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	padding-bottom: 10%;
+}
+.ed-container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	justify-items: space-around;
+	align-items: center;
+	width: 80%;
+	marign: 0 auto;
+}
